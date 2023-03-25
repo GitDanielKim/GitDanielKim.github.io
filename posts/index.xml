@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on daniel kim</title>
+        <link>https://GitDanielKim.github.io/posts/</link>
+        <description>Recent content in Posts on daniel kim</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright> </copyright>
+        <lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://GitDanielKim.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>COMP3331</title>
+            <link>https://GitDanielKim.github.io/posts/2022/01/comp3331/</link>
+            <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+            
+            <guid>https://GitDanielKim.github.io/posts/2022/01/comp3331/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+    </channel>
+</rss>
