@@ -6,15 +6,106 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright> </copyright>
-        <lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://GitDanielKim.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>COMP3331</title>
-            <link>https://GitDanielKim.github.io/posts/2022/01/comp3331/</link>
-            <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+            <title>UNSW Mathematics Society</title>
+            <link>https://GitDanielKim.github.io/posts/2023/03/unsw-mathematics-society/</link>
+            <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
             
-            <guid>https://GitDanielKim.github.io/posts/2022/01/comp3331/</guid>
+            <guid>https://GitDanielKim.github.io/posts/2023/03/unsw-mathematics-society/</guid>
+            <description>hi</description>
+            <content type="html"><![CDATA[<p>hi</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>KPMG Data Science Consulting Summer Internhip</title>
+            <link>https://GitDanielKim.github.io/posts/2023/03/kpmg-data-science-consulting-summer-internhip/</link>
+            <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+            
+            <guid>https://GitDanielKim.github.io/posts/2023/03/kpmg-data-science-consulting-summer-internhip/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>COMP3900 Computer Science Project</title>
+            <link>https://GitDanielKim.github.io/posts/2023/03/comp3900-computer-science-project/</link>
+            <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+            
+            <guid>https://GitDanielKim.github.io/posts/2023/03/comp3900-computer-science-project/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>EY Cybersecurity Consulting Summer Internship</title>
+            <link>https://GitDanielKim.github.io/posts/2022/12/ey-cybersecurity-consulting-summer-internship/</link>
+            <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+            
+            <guid>https://GitDanielKim.github.io/posts/2022/12/ey-cybersecurity-consulting-summer-internship/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>UNSW University Network for Investing and Trading (UNIT)</title>
+            <link>https://GitDanielKim.github.io/posts/2022/12/unsw-university-network-for-investing-and-trading-unit/</link>
+            <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+            
+            <guid>https://GitDanielKim.github.io/posts/2022/12/unsw-university-network-for-investing-and-trading-unit/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>AWS Early Careers Innovation Program</title>
+            <link>https://GitDanielKim.github.io/posts/2021/10/aws-early-careers-innovation-program/</link>
+            <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+            
+            <guid>https://GitDanielKim.github.io/posts/2021/10/aws-early-careers-innovation-program/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>Atlassian World Cup Datathon</title>
+            <link>https://GitDanielKim.github.io/posts/2021/09/atlassian-world-cup-datathon/</link>
+            <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+            
+            <guid>https://GitDanielKim.github.io/posts/2021/09/atlassian-world-cup-datathon/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>Poker Simulation Project</title>
+            <link>https://GitDanielKim.github.io/posts/2020/12/poker-simulation-project/</link>
+            <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+            
+            <guid>https://GitDanielKim.github.io/posts/2020/12/poker-simulation-project/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>Hult Global Prize Challenge</title>
+            <link>https://GitDanielKim.github.io/posts/2020/12/hult-global-prize-challenge/</link>
+            <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+            
+            <guid>https://GitDanielKim.github.io/posts/2020/12/hult-global-prize-challenge/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>UNSW Digital Society</title>
+            <link>https://GitDanielKim.github.io/posts/2020/11/unsw-digital-society/</link>
+            <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
+            
+            <guid>https://GitDanielKim.github.io/posts/2020/11/unsw-digital-society/</guid>
             <description></description>
             <content type="html"><![CDATA[]]></content>
         </item>
